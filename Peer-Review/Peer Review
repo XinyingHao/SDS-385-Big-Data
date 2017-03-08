@@ -1,5 +1,0 @@
-
-Review report on Exercises 05&06 reports for Yuxin Zhang
-The reports include solutions to theoretical questions and simulation results with R code attached. For Exercise 05, detailed steps of proof are provided for both parts. The convergence of estimation is plotted for part (A). In part (C), three methods are compared. For Exercise 06, besides theoretical derivation for part (A), a clear pseudo code for the proximal gradient algorithm is provided with a discussion of main computational cost. Plots to compare the converging speeds of three methods are also included.  
-The report is complete and well written with a nice structure and flow. The mathematical derivations are correct and clearly written. In addition, results are shown in a proper way with explanations. Besides, the simulation is implemented carefully.
-Overall, I like these reports. I especially like the thoughts provided together with the simulation results. As for suggestions for improvement, I believe it will be helpful to aggregate the thoughts shared by other team members during the class into the report. 
